@@ -52,9 +52,9 @@ There is no single designated textbook for this course. Much of the course mater
 
 [WJ: Watkins, J., "An Introduction to the Science of Statistics: From Theory to Implementation"](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
 
-MK: Murphy, K. "Machine Learning: A Probabilistic Perspective." MIT press, 2012 (accessible online via UA library)
+[MK: Murphy, K. "Machine Learning: A Probabilistic Perspective." MIT press, 2012](https://arizona-primo.hosted.exlibrisgroup.com/permalink/f/6ljalh/01UA_ALMA51543591360003843) (accessible online via UA library)
 
-WL: Wasserman, L. "All of Statistics: A Concise Course in Statistical Inference." Springer, 2004 (accessible online via UA library)
+[WL: Wasserman, L. "All of Statistics: A Concise Course in Statistical Inference." Springer, 2004](https://link.springer.com/book/10.1007/978-0-387-21736-9) (accessible online via UA library)
 
 
 Other useful resources
@@ -66,6 +66,8 @@ Other useful resources
 - [The matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf), [The Probability and Statistics Cookbook](http://statistics.zone/), and [Calculus cheatsheet](https://tutorial.math.lamar.edu/pdf/calculus_cheat_sheet_all.pdf) (recommended by Prof. Kwang-Sung Jun).
 
 - You may find using LaTeX helpful in writing homeworks or reports. Some useful LaTeX resources: [Learn LaTeX in 30 minutes by Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#Adding_math_to_LaTeX); [Introduction to LATEX by MIT Research Science Institute](http://web.mit.edu/rsi/www/pdfs/new-latex.pdf)
+
+- [Hal Daume III's book A Course in Machine Learning](http://ciml.info/)
 
 
 ### Machine learning courses at UA
