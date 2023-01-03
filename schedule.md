@@ -16,10 +16,10 @@ Slides credit: heavily built on Profs. Jason Pacheco and Kwang-Sung Jun's CSC 38
 |:------:|:------------------------:|:---:|:---:|:---:|
 | Jan 12 |                          |  |  |  | 
 | Jan 17 |                          |  |  |  | 
-| Jan 19 |                          | |  |  | HW1 out | 
+| Jan 19 |                          | |  |  HW1 out | 
 | Jan 24 |                          | |  |  |  | 
 | Jan 26 |                          | |  |  |  | 
-| Jan 31 |                          | |  |  | HW2 out | 
+| Jan 31 |                          | |  |  HW2 out | 
 | Feb 2  |                          | |  |  |  | 
 | Feb 7  |                          | |  |  |  | 
 | Feb 9  |                          |  |  | HW3 out | 
