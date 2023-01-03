@@ -38,7 +38,7 @@ We will be using Piazza to make important announcements and do Q&As. Some genera
   This will help facilitate our processings of your requests significantly.
 
 
-### Course Staff
+### Course staff
 
 Instructors: Chicheng Zhang and Kyoungseok Jang; Emails: {chichengz, ksajks} at arizona.edu
 
@@ -48,6 +48,8 @@ Office Hours: TBD
 
 ### Textbook
 
+There is no single designated textbook for this course. Much of the course materials and assigned readings will be based on the following books:
+
 [WJ: Watkins, J., "An Introduction to the Science of Statistics: From Theory to Implementation"](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
 
 MK: Murphy, K. "Machine Learning: A Probabilistic Perspective." MIT press, 2012 (accessible online via UA library)
@@ -55,11 +57,13 @@ MK: Murphy, K. "Machine Learning: A Probabilistic Perspective." MIT press, 2012 
 WL: Wasserman, L. "All of Statistics: A Concise Course in Statistical Inference." Springer, 2004 (accessible online via UA library)
 
 
-### Review for prerequisites
+Other useful resources
 
-Here are some excellent notes for [probability review](http://cs229.stanford.edu/section/cs229-prob.pdf) and [linear algebra review](http://cs229.stanford.edu/section/cs229-linalg.pdf) from Stanford's CS 229 course.
+- You should have no difficulty in Python programming. 
 
-See also [The matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf), [The Probability and Statistics Cookbook](http://statistics.zone/), and [Calculus cheatsheet](https://tutorial.math.lamar.edu/pdf/calculus_cheat_sheet_all.pdf) (recommended by Prof. Kwang-Sung Jun).
+- Notes for [probability review](http://cs229.stanford.edu/section/cs229-prob.pdf) and [linear algebra review](http://cs229.stanford.edu/section/cs229-linalg.pdf) from Stanford's CS 229 course.
+
+- [The matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf), [The Probability and Statistics Cookbook](http://statistics.zone/), and [Calculus cheatsheet](https://tutorial.math.lamar.edu/pdf/calculus_cheat_sheet_all.pdf) (recommended by Prof. Kwang-Sung Jun).
 
 
 ### LaTeX
