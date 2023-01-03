@@ -50,11 +50,9 @@ Office Hours: TBD
 
 [WJ: Watkins, J., "An Introduction to the Science of Statistics: From Theory to Implementation"](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
 
-MK : Murphy, K. "Machine Learning: A Probabilistic Perspective." MIT press, 2012 (accessible online via UA library)
+MK: Murphy, K. "Machine Learning: A Probabilistic Perspective." MIT press, 2012 (accessible online via UA library)
 
-We also highly recommend the following textbooks (not required):
-
-Wasserman, L. "All of Statistics: A Concise Course in Statistical Inference." Springer, 2004 (accessible online via UA library)
+WL: Wasserman, L. "All of Statistics: A Concise Course in Statistical Inference." Springer, 2004 (accessible online via UA library)
 
 
 ### Review for prerequisites
