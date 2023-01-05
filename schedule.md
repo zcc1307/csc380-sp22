@@ -12,6 +12,7 @@ title: CSC 380 Spring 2023
 
 Slides credit: heavily built on Profs. Jason Pacheco and Kwang-Sung Jun's CSC 380 slides used in their previous offerings. 
 
+{{< bootstrap-table "table table-dark table-striped table-bordered" >}}
 |  Date  |          Topics          | Notes | Additional readings  | Homework |
 |:------:|:------------------------:|:---:|:---:|:---:|
 | Jan 12 |                          |  |  |  | 
@@ -47,3 +48,4 @@ Slides credit: heavily built on Profs. Jason Pacheco and Kwang-Sung Jun's CSC 38
 | Apr 27 |                          |  |  |  | 
 | May 2  |                          |  |  |  | 
 | May 8  | Final Exam (3:30-5:30pm) |  |  |  | 
+{{< /bootstrap-table >}}
