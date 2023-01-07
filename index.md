@@ -24,11 +24,11 @@ Time and venue: TuTh 2-3:15pm, M. Pacheco ILC 130
 
 [Syllabus]
 
-[Piazza link]
+[Piazza link](https://piazza.com/arizona/spring2023/csc380) Access code: wildcats
 
-[Gradescope]
+[Gradescope](https://www.gradescope.com/courses/480747) Entry code: BBRJBW (NB: Please make sure your gradescope email address is the same as the one you have on D2L)
 
-[D2L course webpage]: lecture video recordings are at "UA Tools" -> "Zoom" (Note: Zoom links are for recordings only and are not for live-streaming lectures)
+[D2L course webpage]: lecture video recordings are at "UA Tools" -> "Zoom" (NB: Zoom links are for **recordings only** and are not for live-streaming lectures)
 
 
 We will be using Piazza to make important announcements and do Q&As. Some general rules:
@@ -42,7 +42,7 @@ We will be using Piazza to make important announcements and do Q&As. Some genera
 
 Instructors: Chicheng Zhang and Kyoungseok Jang; Emails: {chichengz, ksajks} at arizona.edu
 
-Teaching assistants: Ryn Gray, Yinan Li, and Sayyed Faraz Mohseni; Emails: {ryngray, yinanli, mohseni} at arizona.edu
+Teaching assistants: Saiful Islam Salim, Yinan Li, and Sayyed Faraz Mohseni; Emails: {saifulislam, yinanli, mohseni} at arizona.edu
 
 Office Hours: TBD
 
