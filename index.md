@@ -26,9 +26,9 @@ Time and venue: TuTh 2-3:15pm, M. Pacheco ILC 130
 
 [Piazza link](https://piazza.com/arizona/spring2023/csc380) Access code: wildcats
 
-[Gradescope](https://www.gradescope.com/courses/480747) Entry code: BBRJBW (NB: Please make sure your gradescope email address is the same as the one you have on D2L)
+[Gradescope](https://www.gradescope.com/courses/480747) Entry code: BBRJBW (NB: Please make sure your gradescope email address is the same as the one you have on D2L.)
 
-[D2L course webpage]: lecture video recordings are at "UA Tools" -> "Zoom" (NB: Zoom links are for **recordings only** and are not for live-streaming lectures)
+[D2L course webpage](https://d2l.arizona.edu/d2l/home/1258971): lecture video recordings will be at "UA Tools" -> "Zoom" (NB: Zoom links are for **recordings only** and are not for live-streaming lectures.)
 
 
 We will be using Piazza to make important announcements and do Q&As. Some general rules:
