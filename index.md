@@ -44,7 +44,9 @@ Instructors: Chicheng Zhang and Kyoungseok Jang; Emails: {chichengz, ksajks} at 
 
 Teaching assistants: Saiful Islam Salim, Yinan Li, and Sayyed Faraz Mohseni; Emails: {saifulislam, yinanli, mohseni} at arizona.edu
 
-Office Hours: TBD
+Office Hours: 
+
+Chicheng Zhang: Tuesdays 3:30-4:30pm, Gould-Simpson 720
 
 ### Textbook
 
