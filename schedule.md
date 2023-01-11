@@ -14,7 +14,7 @@ Slides credit: heavily built on Profs. Jason Pacheco and Kwang-Sung Jun's CSC 38
 
 |  Date  |          Topics          | Notes | Additional readings  | Homework |
 |:------:|:------------------------:|:---:|:---:|:---:|
-| Jan 12 |       Course mechanics, Intro to data science                   |  | [Robinson and Nolis, What is Data Science?](http://www.pachecoj.com/courses/csc380_fall21/doc/what_is_data_science.pdf)  |  | 
+| Jan 12 |       Course mechanics, Intro to data science                   |  | [Robinson and Nolis, "What is Data Science?"](http://www.pachecoj.com/courses/csc380_fall21/doc/what_is_data_science.pdf)  |  | 
 | Jan 17 |        Probability                  |  |  |  | 
 | Jan 19 |                          | |  |  HW1 out | 
 | Jan 24 |                          | |  |  |  | 
