@@ -48,6 +48,8 @@ Office Hours:
 
 Chicheng Zhang: Tuesdays 3:30-4:30pm, Gould-Simpson 720
 
+(TBA)
+
 ### Textbook
 
 There is no single designated textbook for this course. Much of the course materials and assigned readings will be based on the following books:
