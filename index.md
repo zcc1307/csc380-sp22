@@ -22,7 +22,7 @@ apply the concepts discussed in class to a substantial open-ended problem.
 
 Time and venue: TuTh 2-3:15pm, M. Pacheco ILC 130
 
-[Syllabus](syllabus.pdf)
+[Syllabus](./syllabus.pdf)
 
 [Piazza link](https://piazza.com/arizona/spring2023/csc380) Access code: wildcats
 
