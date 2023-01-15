@@ -46,9 +46,15 @@ Teaching assistants: Saiful Islam Salim, Yinan Li, and Sayyed Faraz Mohseni; Ema
 
 Office Hours: 
 
-Chicheng Zhang: Tuesdays 3:30-4:30pm, Gould-Simpson 720
+Chicheng Zhang: Tuesdays 3:30-4:30pm, Gould-Simpson 720 (before Feb 28)
 
-(TBA)
+Kyoungseok Jang: Tuesdays 3:30-4:30pm, Gould-Simpson 732 (after Feb 28)
+
+Saiful Islam Salim: Wednesdays 10-11am, Gould-Simpson 856
+
+Yinan Li: Mondays 12:45- 1:45pm, Gould-Simpson 856
+
+Sayyed Faraz Mohseni: Fridays 12-1pm, Gould-Simpson 837
 
 ### Textbook
 
