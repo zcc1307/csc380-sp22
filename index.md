@@ -50,7 +50,9 @@ Chicheng Zhang: Tuesdays 3:30-4:30pm, Gould-Simpson 720 (before Feb 28)
 
 Kyoungseok Jang: Tuesdays 3:30-4:30pm, Gould-Simpson 732 (after Feb 28)
 
-Saiful Islam Salim: Wednesdays 10-11am, Gould-Simpson 856
+~~Saiful Islam Salim: Wednesdays 10-11am, Gould-Simpson 856~~
+
+Tugay Bilgis: Thursday 10-11am, Gould-Simpson 942
 
 Yinan Li: Mondays 12:45- 1:45pm, Gould-Simpson 856
 
